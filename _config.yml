@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Computational Scientist & Software Engineer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joonas Nättilä"
-description              : "Associate Research Scientist (Columbia University) & Professor of Astrophysics at Helsinki University (May 2024)"
+name                     : "Mandela Bright Quashie"
+description              : "[**Research Assistant**](https://the-christlieb-group.github.io) & [**NSF Fellow**](https://sites.google.com/msu.edu/nrtmsu/home?authuser=0)"
   #url                      : https://localhost:4000
 url                      : https://mbquashie.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
