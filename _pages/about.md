@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Joonas Nättilä"
+title: "Mandela Bright Quashie"
 permalink: /about/
 author_profile: true
 toc: true
@@ -9,17 +9,16 @@ sidebar:
 share: false
 ads: false
 header:
-  overlay_image: /images/blackboard_large.jpg
+  overlay_image: /images/fp.jpg
 ---
 
 # Bio
 
-I am a computational astrophysicist based in New York. My research is focused on understanding high-energy astrophysical phenomena around neutron stars and black holes. 
+I am a PhD student in [Computational Mathematics, Science, and Engineering](https://cmse.msu.edu) and a software engineer, focused on pushing the limits of high-performance computing for multi-physics simulations, particularly in plasma physics. Guided by [Andrew Christlieb](https://directory.natsci.msu.edu/Directory/Profiles/Person/101537), [Qi Tang](https://tangqi.github.io), and [Joshua Burby](https://oden.utexas.edu/people/directory/Joshua-Burby/), my research develops cutting-edge software architectures that not only handle the immense complexity of plasma simulations but also adapt to diverse scientific challenges.
 
-Currently, I am an Associate Research Scientist in [Columbia University](https://physics.columbia.edu/) (2023, New York, USA). I will start as an Associate Professor of Astrophysics at the Helsinki University in May 2024. 
+By integrating AI and machine learning, I seek to transform predictive modeling and optimization, making simulations faster, more scalable, and insightful. My work merges traditional computational techniques with emerging AI-driven strategies, empowering supercomputers to achieve unprecedented accuracy and efficiency.
 
-Previously, I was a joint Flatiron Research Fellow in [Center for Computational Astrophysics, Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) & Postdoctoral Reseacher in Columbia University (2020-2023; New York, USA). Before coming to New York, I was a Nordita Fellow in [Nordic Institute for Theoretical Physics](http://www.nordita.org) (2018-2020; Stockholm, Sweden). 
-
+I aim to break new ground in plasma simulations and contribute to broader computational science by building tools that tackle complex, interdisciplinary problems, driving innovation and discovery across various fields.
 
 
 # High-Impact Publications

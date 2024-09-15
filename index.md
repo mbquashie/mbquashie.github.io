@@ -6,7 +6,7 @@ author_profile: true
 sidebar:
   nav: "general"
 header:
-  overlay_image: /images/cm.png
+  overlay_image: /images/cm.jpg
 entries_layout: grid
 ---
 
