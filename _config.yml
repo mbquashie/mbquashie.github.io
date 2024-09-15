@@ -105,11 +105,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joonas Nättilä"
+  name             : "Mandela Bright Quashie"
   avatar           : # "/images/jnattila2_small.jpg"
-  bio              : "Associate Research Scientist (Columbia University); Associate Professor of Astrophysics at Helsinki University (May 2024)"
-  location         : "University of Helsinki, Finland"
-  email            : "nattila.joonas@gmail.com"
+  bio              : "[**Research Assistant**](https://the-christlieb-group.github.io) & [**NSF Fellow**](https://sites.google.com/msu.edu/nrtmsu/home?authuser=0)"
+  location         : "Michigan State University, Lansing, U.S.A"
+  email            : "mbquashie.aol.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
