@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" #"default" #, "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Plasma Astrophysics"
+title                    : "Computational Scientist & Software Engineer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joonas Nättilä"
-description              : "Associate Research Scientist (Columbia University) & Professor of Astrophysics at Helsinki University (May 2024)"
+name                     : "Mandela Bright Quashie"
+description              : "[**Research Assistant**](https://the-christlieb-group.github.io) & [**National Science Research Traineeship Fellow**](https://sites.google.com/msu.edu/nrtmsu/home?authuser=0)"
   #url                      : https://localhost:4000
-url                      : https://natj.github.io
+url                      : https://mbquashie.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -105,11 +105,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joonas Nättilä"
+  name             : "Mandela Bright Quashie"
   avatar           : # "/images/jnattila2_small.jpg"
-  bio              : "Associate Research Scientist (Columbia University); Associate Professor of Astrophysics at Helsinki University (May 2024)"
-  location         : "University of Helsinki, Finland"
-  email            : "nattila.joonas@gmail.com"
+  bio              : "[**Research Assistant**](https://the-christlieb-group.github.io) & [**NSF Fellow**](https://sites.google.com/msu.edu/nrtmsu/home?authuser=0)""
+  location         : "Michigan State University, Lansing, U.S.A"
+  email            : "mbquashie@aol.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

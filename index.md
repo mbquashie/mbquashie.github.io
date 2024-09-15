@@ -11,7 +11,7 @@ entries_layout: grid
 ---
 
 
-# [About me](/about)
+# [About Me](/about)
 
 ![portrait](/images/mbq_bw.jpg){: .align-right}
 
