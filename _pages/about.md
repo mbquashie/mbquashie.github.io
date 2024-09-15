@@ -21,9 +21,11 @@ By integrating AI and machine learning, I seek to transform predictive modeling 
 I aim to break new ground in plasma simulations and contribute to broader computational science by building tools that tackle complex, interdisciplinary problems, driving innovation and discovery across various fields.
 
 
-# High-Impact Publications
+# Publications
 
-Another view into my research track can be gained by looking at my high-impact publications:
+  - [A faster K-SVD. Submitted to Deep Learning Indaba 2023](https://openreview.net/forum?id=krDIRBkGpz&referrer=%5Bthe%20profile%20of%20Mandela%20Bright%20Quashie%5D(%2Fprofile%3Fid%3D~Mandela_Bright_Quashie1))
+  - [Increasing Enrolment of Women in Science, Technology, Engineering and Mathematics in Tertiary Education in Kumasi; Mandela Bright Quashie, Emmanuel De-Graft Johnson Owusu-Ansah, Mawusi Adzo Arnong, 2020](https://mastercardfdn.org/closing-the-gender-gap-in-stem-education-in-africa/)
+
 
 - Nature Communications 2024: [Strongly interacting matter exhibits deconfined behavior in massive neutron stars](https://www.nature.com/articles/s41467-023-44051-y)
 - Nature Physics 2020: [Evidence for quark matter cores inside neutron stars](https://www.nature.com/articles/s41567-020-0914-9)
