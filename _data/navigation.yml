@@ -11,20 +11,20 @@ main:
 
 
 general:
-  - title: Joonas Nättilä
+  - title: Mandela Bright Quashie
     children:
       - title: "Bio + Publications"
         url: /about/
       - title: "CV"
         url: "https://cdn.jsdelivr.net/gh/natj/cv@master/cv_nattila.pdf"
-      - title: "GitHub: @natj"
-        url: "https://github.com/natj"
+      - title: "GitHub: @mbquashie"
+        url: "https://github.com/mbquashie"
   - title: Research Group
     children:
-      - title: "Computational Plasma Astrophysics"
+      - title: "Computational Mathematics"
         url: /group/
-      - title: "Runko"
-        url: https://github.com/natj/runko
+      - title: "Computational Plasma Physics"
+        url: https://github.com/mbquashie
   - title: Teaching
     children:
       - title: "General info"
