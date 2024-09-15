@@ -1,0 +1,40 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Group"
+    url: /group/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Notes"
+    url: /notes/
+
+
+general:
+  - title: Joonas Nättilä
+    children:
+      - title: "Bio + Publications"
+        url: /about/
+      - title: "CV"
+        url: "https://cdn.jsdelivr.net/gh/natj/cv@master/cv_nattila.pdf"
+      - title: "GitHub: @natj"
+        url: "https://github.com/natj"
+  - title: Research Group
+    children:
+      - title: "Computational Plasma Astrophysics"
+        url: /group/
+      - title: "Runko"
+        url: https://github.com/natj/runko
+  - title: Teaching
+    children:
+      - title: "General info"
+        url: /teaching/
+      - title: "Scientific writing tips"
+        url: https://github.com/natj/sci_writing
+      - title: "Generating scientific figures"
+        url: /teaching/figs
+  - title: Notes
+    children:
+      - title: "Summary of cgs unit system"
+        url: /notes/cgs
+
