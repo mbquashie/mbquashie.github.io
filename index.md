@@ -13,18 +13,19 @@ entries_layout: grid
 
 # [About me](/about)
 
-![portrait](/images/jnattila2.jpg){: .align-right}
+![portrait](/images/mbq_bw.jpg){: .align-right}
 
 {: .text-justify}
-I am a computational astrophysicist studying high-energy astrophysical phenomena around neutron stars and black holes. For my research, I use both theoretical "pen-and-paper work" and large-scale supercomputer simulations.
+I am a PhD student in computational science and a software engineer dedicated to advancing high-performance computing, particularly in the field of multi-physics simulations with a focus on plasma physics. My research combines theoretical "pen-and-paper" work with large-scale supercomputer simulations to tackle complex scientific problems. I am developing innovative software architectures that not only manage the intricacies of plasma simulations but are also versatile enough to be applied across a range of scientific domains. By incorporating modern AI and machine learning techniques, I aim to transform predictive modeling and data-driven optimization, pushing simulations toward greater accuracy and efficiency.
 
 {: .text-justify}
-I am also the Principal Investigator of the European Research Council (ERC) funded research project ILLUMINATOR. The project aims to unravel how neutron stars generate their observed electromagnetic radiation.
+My work bridges traditional computational methods and AI-driven approaches to make simulations faster, more scalable, and capable of extracting deeper insights from large datasets. I design advanced algorithms that harness modern supercomputers to address complex interactions in plasma environments, enhancing simulation accuracy and efficiency.
 
 {: .text-justify}
-I am an Associate Professor of Astrophysics at [University of Helsinki](https://www.helsinki.fi/en/about-us/people/people-finder/joonas-nattila-9494785) and Associate Research Scientist at [Columbia Astrophysics Laboratory](https://thea.astro.columbia.edu/). Previously, I was a joint Flatiron Research Fellow in [Center for Computational Astrophysics, Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) and a Postdoctoral Researcher in Columbia University (2020-2023; New York, USA). Before coming to New York, I was a Nordita Fellow in [Nordic Institute for Theoretical Physics](http://www.nordita.org) (2018-2020; Stockholm, Sweden).
+Through my research, I aim to push the boundaries of what is possible in plasma simulations and contribute to the broader field of computational science by developing tools and methodologies that tackle some of the most complex and pressing problems we face today. Ultimately, my goal is to create a foundation upon which more accurate, faster, and versatile simulation frameworks can be built, driving innovation and discovery across multiple scientific disciplines.
 
-You can read more about my research [here](/about) and on [our group page](/group).
+
+You can read more about my research [here](/about) and on [our group page](https://the-christlieb-group.github.io).
 
 
 ### In Finnish/Suomeksi:
