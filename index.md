@@ -28,17 +28,15 @@ Through my research, I aim to push the boundaries of what is possible in plasma 
 You can read more about my research [here](/about) and on [our group page](https://the-christlieb-group.github.io).
 
 
-### In Finnish/Suomeksi:
+<!-- ### Some Notes:
 
 {: .text-justify}
-Olen suomalainen astrofysiikan apulaisprofessori Helsingin yliopistossa. Tutkin pääasiassa suurenergia-astrofysiikan ääri-ilmiöitä, kuten neutronitähtien purkauksia, pulsarien säteilyä, mustien aukkojen kertymäkiekkoja, sekä kosmisia radiopurskeita.
+Any statements can go here . -->
 
 -----
 
 ## News
-
-- 1.12.2023: [Nordic Postdoctoral Plasma Physics (NORPPA) Fellowship 2024 call](https://jobregister.aas.org/ad/c8b9a98e) is now closed. We will inform the applicants about the selection in mid January. 
-- 2.1.2024: [Call for Summer Trainee 2024 positions](/group/summer-trainees24/) at the University Helsinki is opening. Stay tuned!
-
-
+- 10.01.2024: Excited to start my fellowship with [**MSU Cloud Computing**](https://icer.msu.edu)! Looking forward to this new journey!
+- 05.15.2024: I'm excited to share that I've been selected for the [**AI and Data-enabled Predictive Multiscale Modeling across STEM NSF Research Traineeship**](https://sites.google.com/msu.edu/nrtmsu/home?authuser=0)! Looking forward to this incredible opportunity!
+- 05.09.2024: Excited to start my internship with the [**T-5 Group at Los Alamos National Laboratory**](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php)! Looking forward to contributing to cutting-edge research.
 
